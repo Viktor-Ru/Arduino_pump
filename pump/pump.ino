@@ -1,9 +1,7 @@
 #define UP_PIN 4
 #define DN_PIN 5
 #define ALARM_PIN 6
-
 #define RELAY_PIN 2
-
 #define LED_ON 13
 #define LED_PUMP A0
 #define LED_ALARM A1
